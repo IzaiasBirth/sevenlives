@@ -1,5 +1,4 @@
-# Sprint IV - Renderização dinâmica e validação de formulários
-## Atividades desenvolvidas na Sprint:
-1. Manipulação do DOM via Javascript
-2. Validação de formulários
-3. Renderização dinâmica de elementos
+# Projeto integrador do programa Portal tech - AWS, META e Proz
+## Desenvolvimento de um blog, usando os recursos:
+1. HTML/CSS
+2. Java Script
